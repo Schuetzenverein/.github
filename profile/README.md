@@ -1,12 +1,65 @@
-## Hi there 👋
+Hier ist ein Vorschlag für eine **einladende GitHub Welcome Page** für eure Organisation, die eine **SaaS-Lösung für Schützenvereine** entwickelt. Diese Seite stellt euer Projekt klar dar, wirkt sympathisch und gibt einen Überblick über Funktion und Nutzen:
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 🎯 Willkommen bei **SchützenManager**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Die digitale Komplettlösung für Schützenvereine**
+
+---
+
+### 🏹 Wer wir sind
+
+**SchützenManager** ist eine moderne **SaaS-Plattform**, die speziell für Schützenvereine entwickelt wurde. Wir vereinen **Vereinsverwaltung**, **Mitgliederpflege**, **Wettkampfdaten** und **Schützenstatistiken** in einem benutzerfreundlichen System.
+
+Unser Ziel: **Tradition bewahren, digital verwalten.**
+
+---
+
+### ⚙️ Was unsere Lösung bietet
+
+* 🗂️ **Vereinsverwaltung**
+  Verwalte Mitglieder, Abteilungen, Beiträge und Termine einfach und sicher online.
+
+* 📊 **Individuelle Schützenstatistiken**
+  Jeder Schütze hat Zugriff auf seine persönliche Leistungshistorie, Trefferquoten und Wettbewerbsentwicklung.
+
+* 🏆 **Wettkampfmanagement**
+  Von Vereinsmeisterschaft bis Landesliga: Ergebnisse erfassen, werten und veröffentlichen.
+
+* 🔐 **Datenschutz & Sicherheit**
+  DSGVO-konform, mit verschlüsselter Datenhaltung.
+
+---
+
+### 🚀 Schnellstart
+
+👉 Repositories findest du in unserem [GitHub-Portfolio](#)
+👉 Anleitung zur Einrichtung: [`README.md`](./README.md)
+👉 Testinstanz & Demo-Zugang: [schuetzenmanager.de/demo](https://schuetzenmanager.de/demo)
+
+---
+
+### 🤝 Mitmachen & Beitragen
+
+Ob du Entwickler, Designer, Vereinsmitglied oder einfach Schützenfreund bist – wir freuen uns über jeden Beitrag!
+
+* Issues melden
+* Features vorschlagen
+* Code beitragen
+* Feedback geben
+
+---
+
+### 📬 Kontakt
+
+💬 **Support & Fragen:** [info@schuetzenmanager.de](mailto:info@schuetzenmanager.de)
+🌐 **Website:** [schuetzenmanager.de](https://schuetzenmanager.de)
+
+---
+
+> ✨ *„Digitalisierung, die ins Schwarze trifft.“* – Das ist unser Anspruch. Mach mit!
+
+---
+
+
