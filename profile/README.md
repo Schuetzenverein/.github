@@ -1,6 +1,3 @@
-Hier ist ein Vorschlag für eine **einladende GitHub Welcome Page** für eure Organisation, die eine **SaaS-Lösung für Schützenvereine** entwickelt. Diese Seite stellt euer Projekt klar dar, wirkt sympathisch und gibt einen Überblick über Funktion und Nutzen:
-
----
 
 ## 🎯 Willkommen bei **SchützenManager**
 
