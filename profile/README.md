@@ -15,42 +15,56 @@ Unser Ziel: **Tradition bewahren, digital verwalten.**
 
 ### ⚙️ Was unsere Lösung bietet
 
-* 🗂️ **Vereinsverwaltung**
-  Verwalte Mitglieder, Abteilungen, Beiträge und Termine einfach und sicher online.
+* 🗂️ **Vereinsverwaltung leicht gemacht**
+  Mitglieder, Beiträge, Gruppen und Termine zentral und übersichtlich verwalten.
 
-* 📊 **Individuelle Schützenstatistiken**
-  Jeder Schütze hat Zugriff auf seine persönliche Leistungshistorie, Trefferquoten und Wettbewerbsentwicklung.
+* 📈 **Schützen-Performance im Blick**
+  Detaillierte Statistiken für jeden einzelnen Schützen – jederzeit abrufbar.
 
-* 🏆 **Wettkampfmanagement**
-  Von Vereinsmeisterschaft bis Landesliga: Ergebnisse erfassen, werten und veröffentlichen.
+* 🏆 **Wettkämpfe digital organisieren**
+  Ergebnisse erfassen, vergleichen und veröffentlichen – vom Training bis zur Meisterschaft.
 
-* 🔐 **Datenschutz & Sicherheit**
-  DSGVO-konform, mit verschlüsselter Datenhaltung.
-
----
-
-### 🚀 Schnellstart
-
-👉 Repositories findest du in unserem [GitHub-Portfolio](#)
-👉 Anleitung zur Einrichtung: [`README.md`](./README.md)
-👉 Testinstanz & Demo-Zugang: [schuetzenmanager.de/demo](https://schuetzenmanager.de/demo)
+* 🔐 **DSGVO-konform & sicher**
+  Hosting in Deutschland, SSL-Verschlüsselung und rollenbasierte Zugriffsrechte.
 
 ---
 
-### 🤝 Mitmachen & Beitragen
+### 💰 Preise & Pakete
 
-Ob du Entwickler, Designer, Vereinsmitglied oder einfach Schützenfreund bist – wir freuen uns über jeden Beitrag!
+Unsere Lösung ist als **monatliches/jährliches Abo-Modell** verfügbar – transparent, fair und ohne versteckte Kosten.
 
-* Issues melden
-* Features vorschlagen
-* Code beitragen
-* Feedback geben
+| Paket       | Ideal für              | Monatlicher Beitrag |
+| ----------- | ---------------------- | ------------------- |
+| **Basic**   | Kleine Vereine         | ab XX €             |
+| **Pro**     | Mittlere Vereine       | ab XX €             |
+| **Premium** | Große Verbände/Vereine | ab XX €             |
+
+➡️ **Details & Buchung:** [schuetzenmanager.de/preise](https://schuetzenmanager.de/preise)
 
 ---
 
-### 📬 Kontakt
+### 🚀 Demo & Testzugang
 
-💬 **Support & Fragen:** [info@schuetzenmanager.de](mailto:info@schuetzenmanager.de)
+📦 Du willst SchützenManager in Aktion sehen?
+Teste unsere Plattform unverbindlich unter:
+
+🔗 [schuetzenmanager.de/demo](https://schuetzenmanager.de/demo)
+
+---
+
+### 🤝 Für Entwickler & Partner
+
+Auch wenn unsere Lösung kommerziell ist – wir setzen auf Offenheit:
+
+* 📌 Issues melden
+* 🧩 API-Dokumentation für Integrationen
+* 💡 Feature-Vorschläge und Feedback willkommen!
+
+---
+
+### 📬 Kontakt & Support
+
+📧 **E-Mail:** [info@schuetzenmanager.de](mailto:info@schuetzenmanager.de)
 🌐 **Website:** [schuetzenmanager.de](https://schuetzenmanager.de)
 
 ---
